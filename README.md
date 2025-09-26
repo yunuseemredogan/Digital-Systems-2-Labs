@@ -1,7 +1,7 @@
 # Dijital Sistemler 2 🚀
 
 ## 📖 Genel Bakış
-Bu GitHub deposu, Eskişehir Teknik Üniversitesi Elektrik ve Elektronik Mühendisliği Bölümü'nde EEM 334 - Dijital Sistemler II dersi kapsamında laboratuvarlarda gerçekleştirdiğim projeleri içermektedir. Depo, FPGA ve VHDL kullanarak dijital devre tasarımı, simülasyon ve uygulama konularında pratik örnekler sunar.
+Bu GitHub deposu, Eskişehir Teknik Üniversitesi Elektrik ve Elektronik Mühendisliği Bölümü'nde EEM 334 - Digital Systems II dersi kapsamında laboratuvarlarda gerçekleştirdiğim projeleri içermektedir. Depo, FPGA ve VHDL kullanarak dijital devre tasarımı, simülasyon ve uygulama konularında pratik örnekler sunar.
 
 Bu depo, aşağıdaki amaçlar için faydalıdır:
 - Dijital sistem tasarımı, VHDL programlama ve FPGA uygulamalarını öğrenmek.
